@@ -1,0 +1,1 @@
+Cambie casi todo el modelo de etiquetas que mostraba el código original, en general le di una estructura sustituyendo los divs por etiquetas para mejora el SEO. El ordenamiento siguio igual sin embargo la forma en la que interactua con el SEO es diferente
